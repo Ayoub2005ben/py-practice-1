@@ -14,7 +14,7 @@ Create a Python program that counts the number of characters
 in the provided story (including spaces and punctuation).
 '''
 character_count = 1 # write your code here
-print("Number of characters in the story:", character_count)
+print("Number of characters in the story:", character_count) # 1038
 
 # Numbers
 
@@ -23,7 +23,7 @@ Exercise 2:** Calculate the number of YEARS until 2045.
 Use the variable `year` to store the current year.
 '''
 year = 2023 # get current year
-years_left = 0 # write your code here
+years_left = 4 # write your code here
 print("Number of years left:", years_left)
 
 '''
