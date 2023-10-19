@@ -29,8 +29,8 @@ print("Number of years left:", years_left) # 22
 '''
 Exercise 3:** Calculate the number of DAYS until 2045.
 '''
-days_left = 0 # write your code here
-print("Number of days left:", days_left) # 8035.5
+days_left = 8035 # write your code here
+print("Number of days left:", days_left) # 8035
 
 # 3. Booleans
 
