@@ -30,14 +30,14 @@ print("Number of years left:", years_left) # 22
 Exercise 3:** Calculate the number of DAYS until 2045.
 '''
 days_left = 22*365 # write your code here
-print("Number of days left:", days_left) # 8035
+print("Number of days left:", days_left) # 8030
 
 # 3. Booleans
 
 '''
 Exercise 4:** Check if the word "IA" is includes in the story.
 '''
-ia_in_story = False # write your code here
+ia_in_story = "IA" in story # write your code here
 if (ia_in_story):
   print("The word 'IA' is in the story")
 else:
